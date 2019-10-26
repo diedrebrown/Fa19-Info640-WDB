@@ -1,0 +1,10 @@
+Manifest file for knb-lter-luq.54.945757.zip created on Tue Oct 22 04:00:05 MDT 2019
+ShrimpPool-0-biannual-1988-2016.csv (3292 bytes)
+ShrimpPool-8-biannual-1988-2016.csv (2979 bytes)
+ShrimpPool-15-biannual-1988-2016.csv (2381 bytes)
+ShrimpPool-0-weekly-1993-2016.csv (49410 bytes)
+ShrimpPool-8-weekly-1993-2016.csv (34533 bytes)
+ShrimpPool-9-weekly-1993-2016.csv (35259 bytes)
+knb-lter-luq.54.945757.xml (65636 bytes)
+knb-lter-luq.54.945757.txt (20562 bytes)
+knb-lter-luq.54.945757.report.xml (83864 bytes)

@@ -1,0 +1,520 @@
+Dataset title:  Shrimp populations in Quebrada Prieta (Pools 0, 8, 9, 15) (El Verde)
+
+Dataset ID:  Dataset Creator
+
+	Name:		Todd Crowl
+	
+	Address:
+			Utah State University, Department of Fisheries and Wildlife
+			Logan, UT 84322  US
+	
+	Phone:		(435) 797-2498
+	Email:		tcrowl@fiu.edu
+
+
+Dataset Abstract
+
+
+
+Dataset Keywords
+
+	populations
+	ecosystems
+	aquatic ecosystems
+	streams
+	events
+	disturbances
+	organisms
+	animals
+	invertebrates
+	crustaceans
+
+
+Intellectual Rights
+
+
+
+Distribution
+
+	Online distribution:  http://luq.lternet.edu/data/luqmetadata54
+
+
+Geographic Coverage
+
+
+	Bounding Coordinates
+
+		Geographic description:	Puerto Rico 186 El Yunque National Forest, Rio Grande, RÃ­o Grande 00745, Puerto Rico
+		West bounding coordinate:	-65.8091
+		East bounding coordinate:	-65.8091
+		North bounding coordinate:	18.3186
+		South bounding coordinate:	18.3186
+	
+		Geographic description:	About 200 meters upstream the Ox-cart Trail on Quebrada Prieta. Puerto Rico 186 El Yunque National Forest, Rio Grande, RÃ­o Grande 00745, Puerto Rico â€Ž 213 m W.
+		West bounding coordinate:	-65.8189
+		East bounding coordinate:	-65.8189
+		North bounding coordinate:	18.3229
+		South bounding coordinate:	18.3229
+	
+		Geographic description:	upstream the Ox-cart Trail on Quebrada Prieta
+		West bounding coordinate:	-65.8184
+		East bounding coordinate:	-65.8184
+		North bounding coordinate:	18.3225
+		South bounding coordinate:	18.3225
+	
+		Geographic description:	upstream the Ox-cart Trail on Quebrada Prieta
+		West bounding coordinate:	-65.8189
+		East bounding coordinate:	-65.8189
+		North bounding coordinate:	18.3229
+		South bounding coordinate:	18.3229
+	
+
+
+
+Temporal Coverage
+
+	Start Date:  1988-01-01
+	End Date:  2016-12-31
+
+
+Dataset Contact
+
+
+
+Methods
+
+
+
+	Method Step 
+
+		Description 
+
+
+
+Data Table
+
+	Entity Name:  Freshwater bi-annual shrimp data from Pool 0 in Quebrada Prieta since 1988
+	Entity Description:  Freshwater bi-annual shrimp data from Pool 0 in Quebrada Prieta since 1988
+	Object Name:  ShrimpPool-0-biannual-1988-2016.csv
+
+
+
+Data Format
+
+	Number of Header Lines:  1
+	Attribute Orientation:  column
+	Field Delimiter:  ,
+
+
+
+Attributes
+
+	Attribute Name:  YEAR
+	Attribute Label:  Year of collection
+	Attribute Definition:  Year of collection
+	Storage Type:  string
+	Measurement Scale: 
+		Year of collection
+	Missing Value Code: 
+
+
+	Attribute Name:  Month
+	Attribute Label:  Month of collection.
+	Attribute Definition:  The full name of the month when collection of the data was performed. No data are missing in this field.
+	Storage Type:  string
+	Measurement Scale: 
+		Pre= Event occured previous to the beginning of the project
+	Missing Value Code: 
+
+
+	Attribute Name:  POOL
+	Attribute Label:  Pool in the Quebrada
+	Attribute Definition:  A number representing a long-term pool in the Quebrada Prieta
+	Storage Type:  string
+	Measurement Scale: 
+		0= Pool denomination for pool 0 in Quebrada Prieta
+		8= Pool denomination for pool 8 in Quebrada Prieta
+		9= Pool denomination for pool 9 in Quebrada Prieta
+		15= Pool denomination for pool 15 in Quebrada Prieta
+	Missing Value Code: 
+
+
+	Attribute Name:  ATYACPUE
+	Attribute Label:  Atya lanipes per trap
+	Attribute Definition:  Total number of freshwater Atya lanipes shrimps captured divided by the number of traps from the corresponding pool in the Quebrada Prieta and then released.Number of traps in each pool can vary but usually are 34, 3, and 2 for Pools 0, 8 , and 15, respectively. Record is missing when data is missing.
+	Storage Type:  
+	Measurement Scale: 
+		Units:  number
+		Number Type:  real
+	Missing Value Code: 
+
+
+	Attribute Name:  XIPHCPUE
+	Attribute Label:  Xiphocaris elongata per trap
+	Attribute Definition:  Total number of freshwater Xiphocaris elongata shrimps captured divided by the number of traps from the corresponding pool in the Quebrada Prieta and then released.Number of traps in each pool can vary but usually are 34, 3, and 2 for Pools 0, 8 , and 15, respectively. Record is missing when data is missing.
+	Storage Type:  string
+	Measurement Scale: 
+		Total number of freshwater Xiphocaris elongata shrimps captured divided by the number of traps from the corresponding pool in the Quebrada Prieta and then released.Number of traps in each pool can vary but usually are 34, 3, and 2 for Pools 0, 8 , and 15, respectively. Record is missing when data is missing.
+	Missing Value Code: 
+
+
+	Attribute Name:  MACCPUE
+	Attribute Label:  Macrobrachium per trap
+	Attribute Definition:  Total number of freshwater Macrobrachium shrimps captured divided by the number of traps from the corresponding pool in the Quebrada Prieta and then released.Number of traps in each pool can vary but usually are 34, 3, and 2 for Pools 0, 8 , and 15, respectively. Record is missing when data is missing..
+	Storage Type:  
+	Measurement Scale: 
+		Units:  number
+		Number Type:  real
+	Missing Value Code: 
+
+
+	Attribute Name:  YEAR
+	Attribute Label:  Year of collection
+	Attribute Definition:  Year of collection
+	Storage Type:  string
+	Measurement Scale: 
+		Year of collection
+	Missing Value Code: 
+
+
+	Attribute Name:  Month
+	Attribute Label:  Month of collection.
+	Attribute Definition:  The full name of the month when collection of the data was performed. No data are missing in this field.
+	Storage Type:  string
+	Measurement Scale: 
+		Pre= Event occured previous to the beginning of the project
+	Missing Value Code: 
+
+
+	Attribute Name:  POOL
+	Attribute Label:  Pool in the Quebrada
+	Attribute Definition:  A number representing a long-term pool in the Quebrada Prieta
+	Storage Type:  string
+	Measurement Scale: 
+		0= Pool denomination for pool 0 in Quebrada Prieta
+		8= Pool denomination for pool 8 in Quebrada Prieta
+		9= Pool denomination for pool 9 in Quebrada Prieta
+		15= Pool denomination for pool 15 in Quebrada Prieta
+	Missing Value Code: 
+
+
+	Attribute Name:  ATYACPUE
+	Attribute Label:  Atya lanipes per trap
+	Attribute Definition:  Total number of freshwater Atya lanipes shrimps captured divided by the number of traps from the corresponding pool in the Quebrada Prieta and then released.Number of traps in each pool can vary but usually are 34, 3, and 2 for Pools 0, 8 , and 15, respectively. Record is missing when data is missing.
+	Storage Type:  
+	Measurement Scale: 
+		Units:  number
+		Number Type:  real
+	Missing Value Code: 
+
+
+	Attribute Name:  XIPHCPUE
+	Attribute Label:  Xiphocaris elongata per trap
+	Attribute Definition:  Total number of freshwater Xiphocaris elongata shrimps captured divided by the number of traps from the corresponding pool in the Quebrada Prieta and then released.Number of traps in each pool can vary but usually are 34, 3, and 2 for Pools 0, 8 , and 15, respectively. Record is missing when data is missing.
+	Storage Type:  string
+	Measurement Scale: 
+		Total number of freshwater Xiphocaris elongata shrimps captured divided by the number of traps from the corresponding pool in the Quebrada Prieta and then released.Number of traps in each pool can vary but usually are 34, 3, and 2 for Pools 0, 8 , and 15, respectively. Record is missing when data is missing.
+	Missing Value Code: 
+
+
+	Attribute Name:  MACCPUE
+	Attribute Label:  Macrobrachium per trap
+	Attribute Definition:  Total number of freshwater Macrobrachium shrimps captured divided by the number of traps from the corresponding pool in the Quebrada Prieta and then released.Number of traps in each pool can vary but usually are 34, 3, and 2 for Pools 0, 8 , and 15, respectively. Record is missing when data is missing..
+	Storage Type:  
+	Measurement Scale: 
+		Units:  number
+		Number Type:  real
+	Missing Value Code: 
+
+
+	Attribute Name:  YEAR
+	Attribute Label:  Year of collection
+	Attribute Definition:  Year of collection
+	Storage Type:  string
+	Measurement Scale: 
+		Year of collection
+	Missing Value Code: 
+
+
+	Attribute Name:  Month
+	Attribute Label:  Month of collection.
+	Attribute Definition:  The full name of the month when collection of the data was performed. No data are missing in this field.
+	Storage Type:  string
+	Measurement Scale: 
+		Pre= Event occured previous to the beginning of the project
+	Missing Value Code: 
+
+
+	Attribute Name:  POOL
+	Attribute Label:  Pool in the Quebrada
+	Attribute Definition:  A number representing a long-term pool in the Quebrada Prieta
+	Storage Type:  string
+	Measurement Scale: 
+		0= Pool denomination for pool 0 in Quebrada Prieta
+		8= Pool denomination for pool 8 in Quebrada Prieta
+		9= Pool denomination for pool 9 in Quebrada Prieta
+		15= Pool denomination for pool 15 in Quebrada Prieta
+	Missing Value Code: 
+
+
+	Attribute Name:  ATYACPUE
+	Attribute Label:  Atya lanipes per trap
+	Attribute Definition:  Total number of freshwater Atya lanipes shrimps captured divided by the number of traps from the corresponding pool in the Quebrada Prieta and then released.Number of traps in each pool can vary but usually are 34, 3, and 2 for Pools 0, 8 , and 15, respectively. Record is missing when data is missing.
+	Storage Type:  
+	Measurement Scale: 
+		Units:  number
+		Number Type:  real
+	Missing Value Code: 
+
+
+	Attribute Name:  XIPHCPUE
+	Attribute Label:  Xiphocaris elongata per trap
+	Attribute Definition:  Total number of freshwater Xiphocaris elongata shrimps captured divided by the number of traps from the corresponding pool in the Quebrada Prieta and then released.Number of traps in each pool can vary but usually are 34, 3, and 2 for Pools 0, 8 , and 15, respectively. Record is missing when data is missing.
+	Storage Type:  string
+	Measurement Scale: 
+		Total number of freshwater Xiphocaris elongata shrimps captured divided by the number of traps from the corresponding pool in the Quebrada Prieta and then released.Number of traps in each pool can vary but usually are 34, 3, and 2 for Pools 0, 8 , and 15, respectively. Record is missing when data is missing.
+	Missing Value Code: 
+
+
+	Attribute Name:  MACCPUE
+	Attribute Label:  Macrobrachium per trap
+	Attribute Definition:  Total number of freshwater Macrobrachium shrimps captured divided by the number of traps from the corresponding pool in the Quebrada Prieta and then released.Number of traps in each pool can vary but usually are 34, 3, and 2 for Pools 0, 8 , and 15, respectively. Record is missing when data is missing..
+	Storage Type:  
+	Measurement Scale: 
+		Units:  number
+		Number Type:  real
+	Missing Value Code: 
+
+
+	Attribute Name:  SAMPLENUM
+	Attribute Label:  Sample Number
+	Attribute Definition:  Sequential number of sampling since January 1993 to present.
+	Storage Type:  
+	Measurement Scale: 
+		Units:  number
+		Number Type:  real
+	Missing Value Code: 
+
+
+	Attribute Name:  WEEK
+	Attribute Label:  Week Number
+	Attribute Definition:  Number of the week of the year when sampling was performed.
+	Storage Type:  string
+	Measurement Scale: 
+		Number of the week of the year when sampling was performed.
+	Missing Value Code: 
+
+
+	Attribute Name:  Month
+	Attribute Label:  Month of collection.
+	Attribute Definition:  The full name of the month when collection of the data was performed. No data are missing in this field.
+	Storage Type:  string
+	Measurement Scale: 
+		Pre= Event occured previous to the beginning of the project
+	Missing Value Code: 
+
+
+	Attribute Name:  YEAR
+	Attribute Label:  Year of collection
+	Attribute Definition:  Year of collection
+	Storage Type:  string
+	Measurement Scale: 
+		Year of collection
+	Missing Value Code: 
+
+
+	Attribute Name:  POOL
+	Attribute Label:  Pool in the Quebrada
+	Attribute Definition:  A number representing a long-term pool in the Quebrada Prieta
+	Storage Type:  string
+	Measurement Scale: 
+		0= Pool denomination for pool 0 in Quebrada Prieta
+		8= Pool denomination for pool 8 in Quebrada Prieta
+		9= Pool denomination for pool 9 in Quebrada Prieta
+		15= Pool denomination for pool 15 in Quebrada Prieta
+	Missing Value Code: 
+
+
+	Attribute Name:  ATYACPUE
+	Attribute Label:  Atya lanipes per trap
+	Attribute Definition:  Total number of freshwater Atya lanipes shrimps captured divided by the number of traps from the corresponding pool in the Quebrada Prieta and then released.Number of traps in each pool can vary but usually are 34, 3, and 2 for Pools 0, 8 , and 15, respectively. Record is missing when data is missing.
+	Storage Type:  
+	Measurement Scale: 
+		Units:  number
+		Number Type:  real
+	Missing Value Code: 
+
+
+	Attribute Name:  XIPHCPUE
+	Attribute Label:  Xiphocaris elongata per trap
+	Attribute Definition:  Total number of freshwater Xiphocaris elongata shrimps captured divided by the number of traps from the corresponding pool in the Quebrada Prieta and then released.Number of traps in each pool can vary but usually are 34, 3, and 2 for Pools 0, 8 , and 15, respectively. Record is missing when data is missing.
+	Storage Type:  string
+	Measurement Scale: 
+		Total number of freshwater Xiphocaris elongata shrimps captured divided by the number of traps from the corresponding pool in the Quebrada Prieta and then released.Number of traps in each pool can vary but usually are 34, 3, and 2 for Pools 0, 8 , and 15, respectively. Record is missing when data is missing.
+	Missing Value Code: 
+
+
+	Attribute Name:  MACCPUE
+	Attribute Label:  Macrobrachium per trap
+	Attribute Definition:  Total number of freshwater Macrobrachium shrimps captured divided by the number of traps from the corresponding pool in the Quebrada Prieta and then released.Number of traps in each pool can vary but usually are 34, 3, and 2 for Pools 0, 8 , and 15, respectively. Record is missing when data is missing..
+	Storage Type:  
+	Measurement Scale: 
+		Units:  number
+		Number Type:  real
+	Missing Value Code: 
+
+
+	Attribute Name:  SAMPLENUM
+	Attribute Label:  Sample Number
+	Attribute Definition:  Sequential number of sampling since January 1993 to present.
+	Storage Type:  
+	Measurement Scale: 
+		Units:  number
+		Number Type:  real
+	Missing Value Code: 
+
+
+	Attribute Name:  WEEK
+	Attribute Label:  Week Number
+	Attribute Definition:  Number of the week of the year when sampling was performed.
+	Storage Type:  string
+	Measurement Scale: 
+		Number of the week of the year when sampling was performed.
+	Missing Value Code: 
+
+
+	Attribute Name:  Month
+	Attribute Label:  Month of collection.
+	Attribute Definition:  The full name of the month when collection of the data was performed. No data are missing in this field.
+	Storage Type:  string
+	Measurement Scale: 
+		Pre= Event occured previous to the beginning of the project
+	Missing Value Code: 
+
+
+	Attribute Name:  YEAR
+	Attribute Label:  Year of observation or monitoring
+	Attribute Definition:  Year (in yyyy) format when the observation or monitoring was made at the field.
+	Storage Type:  date
+	Measurement Scale: 
+	Missing Value Code: 
+
+
+	Attribute Name:  POOL
+	Attribute Label:  Pool in the Quebrada
+	Attribute Definition:  A number representing a long-term pool in the Quebrada Prieta
+	Storage Type:  string
+	Measurement Scale: 
+		0= Pool denomination for pool 0 in Quebrada Prieta
+		8= Pool denomination for pool 8 in Quebrada Prieta
+		9= Pool denomination for pool 9 in Quebrada Prieta
+		15= Pool denomination for pool 15 in Quebrada Prieta
+	Missing Value Code: 
+
+
+	Attribute Name:  ATYACPUE
+	Attribute Label:  Atya lanipes per trap
+	Attribute Definition:  Total number of freshwater Atya lanipes shrimps captured divided by the number of traps from the corresponding pool in the Quebrada Prieta and then released.Number of traps in each pool can vary but usually are 34, 3, and 2 for Pools 0, 8 , and 15, respectively. Record is missing when data is missing.
+	Storage Type:  
+	Measurement Scale: 
+		Units:  number
+		Number Type:  real
+	Missing Value Code: 
+
+
+	Attribute Name:  XIPHCPUE
+	Attribute Label:  Xiphocaris elongata per trap
+	Attribute Definition:  Total number of freshwater Xiphocaris elongata shrimps captured divided by the number of traps from the corresponding pool in the Quebrada Prieta and then released.Number of traps in each pool can vary but usually are 34, 3, and 2 for Pools 0, 8 , and 15, respectively. Record is missing when data is missing.
+	Storage Type:  string
+	Measurement Scale: 
+		Total number of freshwater Xiphocaris elongata shrimps captured divided by the number of traps from the corresponding pool in the Quebrada Prieta and then released.Number of traps in each pool can vary but usually are 34, 3, and 2 for Pools 0, 8 , and 15, respectively. Record is missing when data is missing.
+	Missing Value Code: 
+
+
+	Attribute Name:  MACCPUE
+	Attribute Label:  Macrobrachium per trap
+	Attribute Definition:  Total number of freshwater Macrobrachium shrimps captured divided by the number of traps from the corresponding pool in the Quebrada Prieta and then released.Number of traps in each pool can vary but usually are 34, 3, and 2 for Pools 0, 8 , and 15, respectively. Record is missing when data is missing..
+	Storage Type:  
+	Measurement Scale: 
+		Units:  number
+		Number Type:  real
+	Missing Value Code: 
+
+
+	Attribute Name:  SAMPLENUM
+	Attribute Label:  Sample Number
+	Attribute Definition:  Sequential number of sampling since January 1993 to present.
+	Storage Type:  
+	Measurement Scale: 
+		Units:  number
+		Number Type:  real
+	Missing Value Code: 
+
+
+	Attribute Name:  WEEK
+	Attribute Label:  Week Number
+	Attribute Definition:  Number of the week of the year when sampling was performed.
+	Storage Type:  string
+	Measurement Scale: 
+		Number of the week of the year when sampling was performed.
+	Missing Value Code: 
+
+
+	Attribute Name:  day
+	Attribute Label:  Day of the month when sampling or observation was done
+	Attribute Definition:  Day of the month when sample was gathered, from 1 to 31 (or 30, 28)
+	Storage Type:  date
+	Measurement Scale: 
+	Missing Value Code: 
+
+
+	Attribute Name:  YEAR
+	Attribute Label:  Year of collection
+	Attribute Definition:  Year of collection
+	Storage Type:  string
+	Measurement Scale: 
+		Year of collection
+	Missing Value Code: 
+
+
+	Attribute Name:  POOL
+	Attribute Label:  Pool in the Quebrada
+	Attribute Definition:  A number representing a long-term pool in the Quebrada Prieta
+	Storage Type:  string
+	Measurement Scale: 
+		0= Pool denomination for pool 0 in Quebrada Prieta
+		8= Pool denomination for pool 8 in Quebrada Prieta
+		9= Pool denomination for pool 9 in Quebrada Prieta
+		15= Pool denomination for pool 15 in Quebrada Prieta
+	Missing Value Code: 
+
+
+	Attribute Name:  ATYACPUE
+	Attribute Label:  Atya lanipes per trap
+	Attribute Definition:  Total number of freshwater Atya lanipes shrimps captured divided by the number of traps from the corresponding pool in the Quebrada Prieta and then released.Number of traps in each pool can vary but usually are 34, 3, and 2 for Pools 0, 8 , and 15, respectively. Record is missing when data is missing.
+	Storage Type:  
+	Measurement Scale: 
+		Units:  number
+		Number Type:  real
+	Missing Value Code: 
+
+
+	Attribute Name:  XIPHCPUE
+	Attribute Label:  Xiphocaris elongata per trap
+	Attribute Definition:  Total number of freshwater Xiphocaris elongata shrimps captured divided by the number of traps from the corresponding pool in the Quebrada Prieta and then released.Number of traps in each pool can vary but usually are 34, 3, and 2 for Pools 0, 8 , and 15, respectively. Record is missing when data is missing.
+	Storage Type:  string
+	Measurement Scale: 
+		Total number of freshwater Xiphocaris elongata shrimps captured divided by the number of traps from the corresponding pool in the Quebrada Prieta and then released.Number of traps in each pool can vary but usually are 34, 3, and 2 for Pools 0, 8 , and 15, respectively. Record is missing when data is missing.
+	Missing Value Code: 
+
+
+	Attribute Name:  MACCPUE
+	Attribute Label:  Macrobrachium per trap
+	Attribute Definition:  Total number of freshwater Macrobrachium shrimps captured divided by the number of traps from the corresponding pool in the Quebrada Prieta and then released.Number of traps in each pool can vary but usually are 34, 3, and 2 for Pools 0, 8 , and 15, respectively. Record is missing when data is missing..
+	Storage Type:  
+	Measurement Scale: 
+		Units:  number
+		Number Type:  real
+	Missing Value Code: 
+
+
